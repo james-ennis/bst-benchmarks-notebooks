@@ -190,3 +190,5 @@ time: 294.63, Max-mem: 354240, commit: b8cb5832, date: 2019-03-30T11:57:59+00:00
 time: 282.48, Max-mem: 354428, commit: 6a965cd0, date: 2019-04-01T11:52:43+00:00, branch: bschubert/lint/cyclic-import, MR: !1250
 time: 289.18, Max-mem: 354084, commit: 9605f798, date: 2019-04-02T08:00:28+00:00, branch: kinnison/cleanups, MR: !1272
 time: 278.89, Max-mem: 354864, commit: a3fe0a4c, date: 2019-04-04T10:43:45+00:00, branch: danielsilverstone-ct/more-yaml-cleanups, MR: !1274
+time: 286.40, Max-mem: 354592, commit: 19bbc4c4, date: 2019-04-04T15:23:46+00:00, branch: danielsilverstone-ct/reenable-key-in-node, MR: !1280
+time: 287.04, Max-mem: 354956, commit: bb75626c, date: 2019-04-05T10:25:04+00:00, branch: raoul/965-AaaP-service, MR: !1259
