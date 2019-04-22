@@ -204,3 +204,5 @@ time: 242.68, Max-mem: 354936, commit: 2acfbade, date: 2019-04-15T12:00:48+00:00
 time: 248.24, Max-mem: 354136, commit: 9d7d803b, date: 2019-04-16T13:16:39+00:00, branch: phil/fix-empty-external-tests, MR: !1295
 time: 246.47, Max-mem: 353812, commit: 316a0e49, date: 2019-04-17T03:18:29+00:00, branch: phil/rename-plugintestutils, MR: !1291
 time: 244.26, Max-mem: 353928, commit: 9a20bbf9, date: 2019-04-17T17:05:48+00:00, branch: tpollard/955, MR: !1271
+time: 247.76, Max-mem: 353552, commit: e570c681, date: 2019-04-18T10:43:51+00:00, branch: phil/fixup-templated-test-collection, MR: !1297
+time: 255.94, Max-mem: 352952, commit: 72260137, date: 2019-04-18T17:15:12+00:00, branch: chandan/pseudo-junction, MR: !1293
