@@ -222,3 +222,7 @@ time: 203.78, Max-mem: 189964, commit: bccb4f15, date: 2019-05-01T10:03:14+00:00
 time: 206.79, Max-mem: 189704, commit: 0b5f7bbc, date: 2019-05-02T15:25:36+00:00, branch: danielsilverstone-ct/track-update, MR: !1324
 time: 201.57, Max-mem: 189724, commit: cf32c4df, date: 2019-05-04T07:18:21+00:00, branch: jjardon/fedora_30_master, MR: !1320
 time: 204.57, Max-mem: 189876, commit: 230c749e, date: 2019-05-04T08:06:46+00:00, branch: jjardon/sphinx_2, MR: !1306
+time: 226.09, Max-mem: 189460, commit: 5dad0106, date: 2019-05-06T12:38:18+00:00, branch: tristan/fix-missing-workspace-artifact, MR: !1328
+time: 221.96, Max-mem: 190064, commit: 9800accc, date: 2019-05-09T06:31:37+00:00, branch: tristan/fix-no-strict-junctions, MR: !1333
+time: 212.41, Max-mem: 189824, commit: 463ba24d, date: 2019-05-10T08:15:19+00:00, branch: tristan/fix-build-track-all-no-strict, MR: !1332
+time: 216.65, Max-mem: 189772, commit: cc871d37, date: 2019-05-10T10:22:49+00:00, branch: aevri/retry_flag, MR: !1335
