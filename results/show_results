@@ -247,3 +247,4 @@ time: 10.99, Max-mem: 186724, commit: b01c44fd, date: 2019-05-23T15:36:20+00:00,
 time: 11.12, Max-mem: 186496, commit: e53487a7, date: 2019-05-24T12:44:14+00:00, branch: tristan/fix-workspaced-junctions, MR: !1356
 time: 11.01, Max-mem: 186676, commit: 66a91a2b, date: 2019-05-24T15:14:38+00:00, branch: raoul/1023-grpc-forking, MR: !1357
 time: 11.12, Max-mem: 186844, commit: c3f9528c, date: 2019-05-24T15:50:24+00:00, branch: bschubert/normalize-path-in-context-tests, MR: !1351
+time: 11.01, Max-mem: 186704, commit: 7dd64a42, date: 2019-05-27T19:30:36+00:00, branch: jjardon/fix_overnigth_test, MR: !1359
